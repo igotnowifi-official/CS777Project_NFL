@@ -1,6 +1,3 @@
-# CS777Project_NFL
-Looking at the first 9 weeks of the 2022 NFL Playoff Season
-
 *** Disclaimer ***
 
 I don't watch nor follow NFL or american football, so if there are any mistakes in the implementation, it was due to ignorance to the topic.
